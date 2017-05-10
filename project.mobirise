@@ -1,0 +1,515 @@
+{
+  "settings": {
+    "name": "casinolegal.fr",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#4fe71f",
+        "secondaryColor": "#c48cce",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#fffffd",
+        "dangerColor": "#FF9685",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 18,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_styles": {
+            "P": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "header7-7",
+          "_params": {
+            "imageSize": "13",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "containerColor1": "#bf359d",
+            "containerColor2": "#dc4c35",
+            "containerColor3": "#fdff81",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/15930846-0-logo-casino-legal-1400x299.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "",
+          "text": "Casinolegal.fr est un organisme non-affilié et indépendant à but non-lucratif. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://plus.google.com/u/8/106092007168314349407\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a>"
+        },
+        {
+          "subtitle1": "Awesome",
+          "subtitle2": "Awesome",
+          "subtitle3": "Awesome",
+          "subtitle4": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features15",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "#bb412e",
+              "border-color": "#bb412e"
+            },
+            ".card-text": {
+              "font-size": "14px"
+            },
+            ".heading-text": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".heading-title": {
+              "font-size": "32px"
+            },
+            ".card-title": {
+              "font-size": "18px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".heading-title B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "features15-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "contentAlign": "center",
+            "iconsBgColor": "#bb412e",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeatures": true,
+            "columns": "4",
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "<b>RESULTATS DU SONDAGE ANNUEL CASINOLEGAL.FR</b>",
+          "text": "<span style=\"line-height: 1.7em;\">Nous avons classifié les sites de jeux en ligne selon 5 catégories: régularité des jeux, support, délais de paiement, sécurité, contrôle. La note maximale par catégorie est de 10. Les répondants anonymes parmi les 2000 utilisateurs réguliers interrogés se sont exprimés en fonction de leurs expériences personnelles sur chacune des 4 catégories.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "cash-payment",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "color": "#ffffff"
+            }
+          },
+          "title1": "Délais de paiement",
+          "text1": "",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "hardware-security",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "newWindow": false
+            }
+          },
+          "title2": "Sécurité",
+          "text2": "&nbsp;",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "support",
+              "family": "iconsMind",
+              "active": true,
+              "link": "",
+              "newWindow": false
+            }
+          },
+          "title3": "Service de support<br>",
+          "text3": "",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "legal",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "newWindow": false
+            }
+          },
+          "title4": "Légalité&nbsp;",
+          "text4": "",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table3",
+          "_styles": {
+            ".mbr-price-figure": {
+              "font-size": "32px",
+              "text-align": "right",
+              "color": "#fffcf6"
+            },
+            ".mbr-plan-price-desc": {
+              "text-align": "right",
+              "font-size": "13px",
+              "color": "#fffffd"
+            },
+            "UL": {
+              "text-align": "right",
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "text-align": "left",
+              "font-size": "22px"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "font-size": "32px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "pricing-table3-b",
+          "_params": {
+            "showIcons": false,
+            "bgColor1": "#5f90da",
+            "bgColor2": "#2ed617",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "primary",
+            "fourthType": ""
+          },
+          "title": "",
+          "subtitle": "",
+          "title1": "",
+          "price1": "casino1 club",
+          "period1": "",
+          "description1": "Note globale: 30",
+          "list1": "<ul class=\"list-group list-group-flush\"><br><li class=\"list-group-item\">support: 6</li><li class=\"list-group-item\">délais de paiement: 9</li><li class=\"list-group-item\">sécurité: 5</li><li class=\"list-group-item\">contrôle: 10</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://tracking.adxsupply.com/cWQB_1HwZYAUylDop\" class=\"btn btn-lg btn-white\" data-toolbar=\"-mbrBtnMove\">VISITER LE SITE</a>",
+          "title2": "",
+          "price2": "cashpot",
+          "period2": "",
+          "description2": "Note globale: 24",
+          "list2": "<ul class=\"list-group list-group-flush\"><br><li class=\"list-group-item\">support: 8</li><li class=\"list-group-item\"><span style=\"line-height: 1.5;\">délais de paiement: 3</span></li><li class=\"list-group-item\">sécurité: 9</li><li class=\"list-group-item\">contrôle: 4</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://tracking.adxsupply.com/cWQB8i3wZYAUylDoS\" class=\"btn btn-lg btn-white\" data-toolbar=\"-mbrBtnMove\">VISITER LE SITE</a>",
+          "title3": "",
+          "price3": "vegasfiesta",
+          "period3": "",
+          "description3": "Note globale: 38",
+          "list3": "<ul class=\"list-group list-group-flush\"><br><li class=\"list-group-item\">Service de support : 10</li><li class=\"list-group-item\">Délais de paiement : 9</li><li class=\"list-group-item\">Sécurité : 9</li><li class=\"list-group-item\">Légalité : 10</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/pVzjsC\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">VISITER LE SITE GAGNANT</a> ",
+          "title4": "",
+          "price4": "blu",
+          "period4": "",
+          "description4": "Note globale: 22",
+          "list4": "<ul class=\"list-group list-group-flush\"><br><li class=\"list-group-item\">support: 7</li><li class=\"list-group-item\">délais de paiement: 6</li><li class=\"list-group-item\">sécurité: 4</li><li class=\"list-group-item\">contrôle: 5</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://tracking.adxsupply.com/cWQByfStJnx3pAPgu\" class=\"btn btn-lg btn-white\" data-toolbar=\"-mbrBtnMove\">VISITER LE SITE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casino1club-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/casino1club-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cashpot-logo-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/cashpot-logo-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15936746-0-vegasfiestalogopink-1-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/15936746-0-vegasfiestalogopink-1-2000x1500.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casino-blu-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/casino-blu-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#fffffd",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-6",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "#fffffd"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            ".footer-header": {
+              "text-align": "center",
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "footer2-c",
+          "_params": {
+            "listColor": "#fffffd",
+            "btnColor": "@infoColor",
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "",
+          "list1": "",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"mailto:@MaximilienDufr4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/jouezsansrisques/?view_public_for=298456823915982\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/8/106092007168314349407\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCYk38DcoxlUU0GN8V6tUoGA/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            },
+            ".heading-title": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "form1-d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "formBg": "#fafbfc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formHeader": true
+          },
+          "title": "Des suggestions, ou autres commentaires et questions, n'hesitez pas a nous contacter directement.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Envoyez nous un message par le biais du formulaire ci-dessous:",
+          "form": {
+            "action": "maximilien.dufresne@casinolegal.fr",
+            "alerts": {
+              "success": "Nous vous remercions de votre message. Nous nous efforcerons de repondre a votre message dans les plus brefs delais"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Tel*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoyer</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Facebook Pixel Code -->\n{JS_CODE_0}\n<noscript>&amp;amp;amp;amp;lt;img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=126124557941150&amp;amp;amp;amp;amp;ev=PageView&amp;amp;amp;amp;amp;noscript=1\"\n/&amp;amp;amp;amp;gt;</noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '126124557941150'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>"
+          ],
+          "_anchor": "custom-html-h"
+        }
+      ]
+    }
+  }
+}
